@@ -17,7 +17,7 @@
     },
 "OWNER_NAME": {
       "description": "owner name of the bot or Your Name",
-      "required": true"
+      "required": false"
       "value": "babyfx"
 }
     },
