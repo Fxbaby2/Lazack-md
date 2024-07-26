@@ -1,5 +1,5 @@
 {
-  "name": "LAZACK MD V2",
+  "name": "babyfx",
   "description": "WhatsApp Bot Base using Baileys. Written in javascript",
   "keywords": [
     "whatsapp bot",
@@ -17,8 +17,8 @@
     },
 "OWNER_NAME": {
       "description": "owner name of the bot or Your Name",
-      "required": false,
-      "value": ""
+      "required": true"
+      "value": "babyfx"
 }
     },
  "buildpacks": [
